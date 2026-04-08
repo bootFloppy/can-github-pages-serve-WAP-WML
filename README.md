@@ -1,2 +1,2 @@
-# can-github-pages-serve-WAP-WML
-fucking around and finding out
+# Can Github Pages serve WAP WML?
+maybe
